@@ -2,7 +2,9 @@
 
 ##### In-class practice 1  
 
-1.	Download two CSV files and place them in the data folder of this project:
+1. Create a `data` folder in your local project repository.  
+
+2. Download these two CSV files and place them in the data folder:
 
     a.	Gross Domestic Product (GDP) per capita http://data.un.org/Data.aspx?d=WDI&f=Indicator_Code%3aNY.GDP.PCAP.PP.KD **DO NOT APPLY ANY FILTERS**
      - rename the file to `gdp_percapita.csv`

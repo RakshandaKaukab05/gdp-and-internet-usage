@@ -52,10 +52,10 @@
 23.	Look at the distribution of gdp per capita values for 2014. Is it unimodal?
 24.	Look at the distribution of Internet Use for 2014. Is it unimodal?
 25.	What are the top 5 countries in terms of internet use in 2014?
-26.	Create a data frame called top_5_internet **from the combined data frame that has all three years for these 5 countries**. You should have 15 rows. Check that this is true.
-27.	Create a seaborn FacetGrid to show the internet usage trend over time for these 5 countries. Which country had the greatest growth between 2004 and 2014? Is there a plotting issue with Bermuda? Can you fix it?
-28.	Repeat the steps above to look at the trend for the 5 countries with the lowest 2014 internet usage. WHich country has consistently had the least internet use?
-29.	Get the top 5 countries for 2014 in terms of GDP per capita; create a dataframe to look at 10-year trends in gdp per capita. Use a seaborn facet grid for this.
+26.	Create a data frame called top_5_internet **from the combined data frame that has all three years _for these 5 countries_**. You should have 15 rows. Check that this is true.
+27.	Create a seaborn FacetGrid to show the internet usage trend over time for these 5 countries (those with the highest reported internet use in 2014). Which country had the greatest growth between 2004 and 2014? Is there a plotting issue with Bermuda? Can you fix it?
+28.	Repeat the steps above to look at the trend for the 5 countries with the lowest 2014 internet usage. Which country has consistently had the least internet use?
+29.	Find the top 5 countries for 2014 in terms of GDP per capita; create a dataframe to look at 10-year trends in gdp per capita for those 5 countries. Use a seaborn facet grid for this.
 96. Repeat this one more time to look at 10-year trend for the bottom 5 countries for 2014 in terms of GDP per capita.
 30.	Is there anything surprising or unusual in any of these plots? Searching on the internet, can you find any possible explanations for unusual findings?
 
